@@ -56,6 +56,9 @@ Visit http://localhost:3000 in your browser.
 
 Vercel pipelines will automatically deploy the pushed commits on the main branch.
 
+### Deployed Vercel Link:
+
+https://auth-test-ashy.vercel.app
 
 ## 🔧 Technologies
 
