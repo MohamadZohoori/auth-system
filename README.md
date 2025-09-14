@@ -23,14 +23,18 @@ An authentication system built with Next.js featuring phone number validation, r
 ### Installation
 
 1. Clone the repository
+```
    git clone [repo URL Link]
+```
 
 2. Install dependencies
+```
    npm install
    # or
    yarn
    # or
    pnpm install
+```
 
 
 ## 🚀 Running the Application
@@ -38,37 +42,20 @@ An authentication system built with Next.js featuring phone number validation, r
 ### Development Environment
 
 Start the development server with:
+```
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
+```
 
 Visit http://localhost:3000 in your browser.
 
 ### Production Build
 
-1. Build the application
-   npm run build
-   # or
-   yarn build
-   # or
-   pnpm build
+Vercel pipelines will automatically deploy the pushed commits on the main branch.
 
-2. Start the production server
-   npm start
-   # or
-   yarn start
-   # or
-   pnpm start
-
-### Running Tests
-
-npm run test
-# or
-yarn test
-# or
-pnpm test
 
 ## 🔧 Technologies
 
